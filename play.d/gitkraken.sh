@@ -3,7 +3,8 @@
 PKGNAME=gitkraken
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="GitKraken Client from the official site"
+#DESCRIPTION="GitKraken Client from the official site"
+DESCRIPTION="GitKraken - Графический клиент Git"
 URL="https://www.gitkraken.com/"
 
 . $(dirname $0)/common.sh

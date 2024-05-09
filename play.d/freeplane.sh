@@ -3,7 +3,8 @@
 PKGNAME=freeplane
 SUPPORTEDARCHES="x86_64 x86"
 VERSION="$2"
-DESCRIPTION="FreePlane from the official site"
+#DESCRIPTION="FreePlane from the official site"
+DESCRIPTION="FreePlane - Приложение для создания и организации информации в виде карты ума (mind map)"
 URL="http://freeplane.sourceforge.net"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=k3s
 SUPPORTEDARCHES="x86_64 aarch64 armhf"
 VERSION="$2"
-DESCRIPTION="K3s - Lightweight Kubernetes from the official site"
+#DESCRIPTION="K3s - Lightweight Kubernetes from the official site"
+DESCRIPTION="K3s - Легковесный дистрибутив Kubernetes"
 URL="https://k3s.io"
 
 . $(dirname $0)/common.sh

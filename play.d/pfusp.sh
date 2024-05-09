@@ -3,7 +3,8 @@
 PKGNAME=pfusp
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Ricoh SP-1120N / SP-1125N / SP-1130N Image Scanner Driver Linux from the official site"
+#DESCRIPTION="Ricoh SP-1120N / SP-1125N / SP-1130N Image Scanner Driver Linux from the official site"
+DESCRIPTION="Драйвера для сканеров Ricoh SP-1120N / SP-1125N / SP-1130N"
 URL="https://www.pfu.ricoh.com/global/scanners/fi/dl/agree/ubuntu-64-221-sp.html"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=Joplin
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Joplin - an open source note taking and to-do application with synchronisation capabilities"
+#DESCRIPTION="Joplin - an open source note taking and to-do application with synchronisation capabilities"
+DESCRIPTION="Joplin - Приложение для заметок с открытым исходным кодом с поддержкой синхронизации между устройствами"
 URL="https://joplinapp.org/"
 
 . $(dirname $0)/common.sh

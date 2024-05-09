@@ -3,7 +3,8 @@
 PKGNAME=postman
 SUPPORTEDARCHES="x86_64 aarch64"
 VERSION="$2"
-DESCRIPTION='Postman is an API platform for building and using APIs'
+#DESCRIPTION='Postman is an API platform for building and using APIs'
+DESCRIPTION="Postman - это платформа для тестирования API, которая позволяет разработчикам создавать, тестировать и отлаживать HTTP запросы и API в удобном интерфейсе"
 URL="https://www.postman.com"
 
 . $(dirname $0)/common.sh

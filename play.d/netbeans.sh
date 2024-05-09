@@ -5,7 +5,8 @@ SKIPREPACK=1
 # noarch package
 #SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Apache NetBeans from the official site"
+#DESCRIPTION="Apache NetBeans from the official site"
+DESCRIPTION="Apache NetBeans - среда разработки с открытым исходным кодом для различных языков программирования, включая Java, JavaScript, PHP, Python и другие"
 URL="https://netbeans.apache.org"
 
 . $(dirname $0)/common.sh

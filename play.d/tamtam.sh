@@ -3,7 +3,8 @@
 PKGNAME=tamtam-app
 SUPPORTEDARCHES="x86_64 x86"
 VERSION="$2"
-DESCRIPTION="TamTam messenger from the official site"
+#DESCRIPTION="TamTam messenger from the official site"
+DESCRIPTION="ТамТам - приложение для обмена сообщениями, фото и видео, а также для чтения новостей и общения в сообществах"
 
 . $(dirname $0)/common.sh
 

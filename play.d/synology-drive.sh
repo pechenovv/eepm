@@ -3,7 +3,8 @@
 PKGNAME=synology-drive
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Synology Drive Client from the official site'
+#DESCRIPTION='Synology Drive Client from the official site'
+DESCRIPTION="Synology Drive - это приложение для синхронизации и обмена файлами, разработанное для использования с устройствами хранения данных Synology NAS"
 URL="https://www.synology.com/"
 
 . $(dirname $0)/common.sh

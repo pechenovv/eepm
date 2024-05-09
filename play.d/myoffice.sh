@@ -4,7 +4,8 @@ PKGNAME=myoffice-standard-home-edition
 SKIPREPACK=1
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="MyOffice Standart Home Edition for Linux from the official site"
+#DESCRIPTION="MyOffice Standart Home Edition for Linux from the official site"
+DESCRIPTION="МойОфис - Редакторы текстовых документов и электронных таблиц для решения повседневных задач на домашнем компьютере"
 URL="https://myoffice.ru/products/standard-home-edition/"
 
 . $(dirname $0)/common.sh

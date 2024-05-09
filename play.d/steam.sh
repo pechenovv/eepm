@@ -3,7 +3,8 @@
 PKGNAME=steam-launcher
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Steam Launcher (from the repository if the package is there, or from the official site)'
+#DESCRIPTION='Steam Launcher (from the repository if the package is there, or from the official site)'
+DESCRIPTION="Steam Launcher - это программа, которая запускает клиент Steam, позволяя пользователям получать доступ к играм, обновлениям, друзьям и другим функциям платформы Steam (При наличии будет предоставлен пакет из репозитория)"
 URL="https://store.steampowered.com/about"
 
 [ "$(epm print info -s)" = "alt" ] && REPOPKGNAME=i586-steam || REPOPKGNAME=steam

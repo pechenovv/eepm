@@ -3,7 +3,8 @@
 PKGNAME=sublime-text
 SUPPORTEDARCHES="x86_64 aarch64"
 VERSION="$2"
-DESCRIPTION='Sublime Text 4 from the official site'
+#DESCRIPTION='Sublime Text 4 from the official site'
+DESCRIPTION="Sublime Text - текстовый редактор с расширенными функциями редактирования кода, поддержкой множества языков программирования, плагинов и пользовательских настроек"
 URL="https://www.sublimetext.com/"
 
 . $(dirname $0)/common.sh

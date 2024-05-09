@@ -3,7 +3,8 @@
 PKGNAME=ktalk
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Контур.Толк (ktalk) from the official site"
+#DESCRIPTION="Контур.Толк (ktalk) from the official site"
+DESCRIPTION="Контур.Толк - сервис видеоконференций"
 URL="https://kontur.ru/talk"
 
 . $(dirname $0)/common.sh

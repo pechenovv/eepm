@@ -2,7 +2,8 @@
 PKGNAME=hiddify
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Кроссплатформенный прокси-клиент на основе ядра Sing-box"
+#DESCRIPTION="A multi-platform proxy client based on Sing-box universal proxy tool-chain"
+DESCRIPTION="Hiddify next - Кроссплатформенный прокси-клиент на основе ядра Sing-box"
 URL="https://github.com/hiddify/hiddify-next"
 
 . $(dirname $0)/common.sh

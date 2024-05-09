@@ -3,7 +3,8 @@
 PKGNAME=codium
 SUPPORTEDARCHES="x86_64 aarch64 armhf"
 VERSION="$2"
-DESCRIPTION="Codium from the official site"
+#DESCRIPTION="Codium from the official site"
+DESCRIPTION="Codium - Среда разработки с открытым исходным кодом, предоставляющая большинство функций VS Code"
 
 . $(dirname $0)/common.sh
 

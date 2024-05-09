@@ -3,7 +3,8 @@
 PKGNAME=cuda-z
 VERSION="$2"
 SUPPORTEDARCHES="x86_64 x86"
-DESCRIPTION="CUDA-Z from the official site"
+#DESCRIPTION="CUDA-Z from the official site"
+DESCRIPTION="CUDA-Z - Утилита для мониторинга и анализа характеристик графических ускорителей NVIDIA CUDA"
 
 . $(dirname $0)/common.sh
 

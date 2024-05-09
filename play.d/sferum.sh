@@ -3,8 +3,8 @@
 PKGNAME=sferum
 SUPPORTEDARCHES="x86_64 x86"
 VERSION="$2"
-DESCRIPTION="Sferum for Linux from the official site"
-
+#DESCRIPTION="Sferum for Linux from the official site"
+DESCRIPTION="Сферум - Безопасное пространство для учёбы и общения. Звонки, чаты и другие полезные функции"
 . $(dirname $0)/common.sh
 
 warn_version_is_not_supported

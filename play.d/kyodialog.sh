@@ -3,7 +3,8 @@
 PKGNAME=kyodialog
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="KYOCERA Printing Package (Linux Universal Driver)"
+#DESCRIPTION="KYOCERA Printing Package (Linux Universal Driver)"
+DESCRIPTION="Программное обеспечение для взаимодействия с принтерами и МФУ Kyocera"
 URL="https://www.kyoceradocumentsolutions.com/download/model_ru.html?r=92&s=23&m=255&p=50"
 
 . $(dirname $0)/common.sh

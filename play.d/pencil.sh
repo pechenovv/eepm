@@ -4,7 +4,8 @@ PKGNAME=Pencil
 REPOPKGNAME=pencil
 SUPPORTEDARCHES="x86_64 x86"
 VERSION="$2"
-DESCRIPTION="Pencil from the official site"
+#DESCRIPTION="Pencil from the official site"
+DESCRIPTION="Pencil - это инструмент для создания прототипов интерфейсов с поддержкой различных устройств и платформ"
 URL="https://pencil.evolus.vn/"
 
 . $(dirname $0)/common.sh

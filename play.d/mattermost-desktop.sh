@@ -3,7 +3,8 @@
 PKGNAME=mattermost-desktop
 SUPPORTEDARCHES="x86_64 aarch64"
 VERSION="$2"
-DESCRIPTION="Mattermost Desktop application for Linux from the official site"
+#DESCRIPTION="Mattermost Desktop application for Linux from the official site"
+DESCRIPTION="Mattermost - Открытая платформа для обмена сообщениями и совместной работы, аналогичная Slack"
 URL="https://mattermost.com/"
 
 . $(dirname $0)/common.sh

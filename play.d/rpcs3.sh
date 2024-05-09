@@ -3,7 +3,8 @@
 PKGNAME=rpcs3
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="RPCS3 - free and open-source PlayStation 3 emulator from the official site"
+#DESCRIPTION="RPCS3 - free and open-source PlayStation 3 emulator from the official site"
+DESCRIPTION="RPCS3 - Эмулятор игровой консоли PlayStation 3 (PS3)"
 URL="https://rpcs3.net/download"
 
 . $(dirname $0)/common.sh

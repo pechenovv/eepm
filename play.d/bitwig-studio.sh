@@ -3,7 +3,8 @@
 PKGNAME=bitwig-studio
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Bitwig Studio from the official site"
+#DESCRIPTION="Bitwig Studio from the official site"
+DESCRIPTION="Bitwig Studio - Программное обеспечение для создания музыки и звукозаписи"
 URL="https://www.bitwig.com"
 
 . $(dirname $0)/common.sh

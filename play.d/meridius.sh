@@ -3,7 +3,8 @@
 PKGNAME=meridius
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Meridius — music player for VK"
+#DESCRIPTION="Meridius — music player for VK"
+DESCRIPTION="Meridius - Музыкальный плеер для VK"
 URL="https://github.com/PurpleHorrorRus/Meridius"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=softmaker-freeoffice-2021
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="SoftMaker Free Office from the official site"
+#DESCRIPTION="SoftMaker Free Office from the official site"
+DESCRIPTION="SoftMaker Free Office - Бесплатный пакет офисных программ"
 TIPS="Run epm play freeoffice=<version> to install some specific version"
 
 . $(dirname $0)/common.sh

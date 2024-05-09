@@ -5,7 +5,8 @@ SUPPORTEDARCHES="x86_64"
 VERSION="$2"
 # After April 12, 2023, Microsoft Teams Free (classic), the legacy free Teams app for business, will no longer be available.
 # https://www.microsoft.com/en-us/microsoft-teams/free-classic-retirement?rtc=1
-DESCRIPTION="Microsoft Teams for Linux from the archive.org of the official site"
+#DESCRIPTION="Microsoft Teams for Linux from the archive.org of the official site"
+DESCRIPTION="Microsoft Teams с использованием ресурса archive.org"
 
 . $(dirname $0)/common.sh
 

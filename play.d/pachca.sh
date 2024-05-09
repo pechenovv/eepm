@@ -3,7 +3,7 @@
 PKGNAME=pachca
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Корпоративный мессенджер Пачка с официального сайта"
+DESCRIPTION="Корпоративный мессенджер Пачка"
 URL="https://github.com/pachca/pachca-desktop"
 
 . $(dirname $0)/common.sh

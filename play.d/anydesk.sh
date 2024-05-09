@@ -3,8 +3,8 @@
 PKGNAME=anydesk
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="AnyDesk from the official site"
-
+#DESCRIPTION="AnyDesk from the official site"
+DESCRIPTION="Простая программа для предоставления удалённого доступа"
 . $(dirname $0)/common.sh
 
 warn_version_is_not_supported

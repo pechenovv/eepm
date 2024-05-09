@@ -4,7 +4,8 @@ BASEPKGNAME=kubo
 SUPPORTEDARCHES="x86_64 x86 aarch64 armhf"
 PRODUCTALT="'' beta"
 VERSION="$2"
-DESCRIPTION="Kubo - An IPFS implementation in Go from the official site"
+#DESCRIPTION="Kubo - An IPFS implementation in Go from the official site"
+DESCRIPTION="Kubo - Имплементация технологии IPFS на языке Go"
 URL="https://github.com/ipfs/kubo"
 
 . $(dirname $0)/common.sh

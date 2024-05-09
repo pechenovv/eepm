@@ -4,7 +4,8 @@ BASEPKGNAME=microsoft-edge
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
 PRODUCTALT="stable beta dev"
-DESCRIPTION="Microsoft Edge browser (dev) from the official site"
+#DESCRIPTION="Microsoft Edge browser (dev) from the official site"
+DESCRIPTION="Браузер от компании Microsoft"
 
 . $(dirname $0)/common.sh
 

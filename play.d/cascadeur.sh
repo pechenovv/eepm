@@ -3,7 +3,8 @@
 PKGNAME=cascadeur
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Cascadeur - a physics‑based 3D animation software"
+#DESCRIPTION="Cascadeur - a physics‑based 3D animation software"
+DESCRIPTION="Cascadeur - Программа для создания анимаций персонажей и физически реалистичных движений"
 URL="https://cascadeur.com/download"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=aksusbd
 SUPPORTEDARCHES="x86_64 x86 aarch64 armhf"
 VERSION="$2"
-DESCRIPTION="Sentinel LDK daemon (HASP) from the official site"
+#DESCRIPTION="Sentinel LDK daemon (HASP) from the official site"
+DESCRIPTION="Демон Sentinel AKSUSB с поддержкой ключей Sentinel HASP, HASP HL, HASP4 и Hardlock"
 
 . $(dirname $0)/common.sh
 

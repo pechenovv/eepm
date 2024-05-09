@@ -3,7 +3,8 @@
 PKGNAME=logseq
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Logseq - a platform for knowledge management and collaboration. From the official site'
+#DESCRIPTION='Logseq - a platform for knowledge management and collaboration. From the official site'
+DESCRIPTION="Logseq - Инструмент для заметок и личного хранения данных, основанный на структуре вики-страниц"
 URL="https://github.com/logseq/logseq"
 
 . $(dirname $0)/common.sh

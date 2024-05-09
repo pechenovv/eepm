@@ -3,7 +3,7 @@
 PKGNAME=SweetHome3D
 SUPPORTEDARCHES="x86_64 x86"
 VERSION="$2"
-DESCRIPTION=''
+DESCRIPTION="Sweet Home 3D - это бесплатное приложение для дизайна интерьера, позволяющее создавать планы помещений"
 
 . $(dirname $0)/common.sh
 

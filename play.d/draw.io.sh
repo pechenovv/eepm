@@ -3,7 +3,8 @@
 PKGNAME=draw.io
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="diagrams.net desktop"
+#DESCRIPTION="diagrams.net desktop"
+DESCRIPTION="diagrams.net - Инструмент для создания диаграмм, схем и графических изображений"
 
 . $(dirname $0)/common.sh
 

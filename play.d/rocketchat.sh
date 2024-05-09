@@ -3,7 +3,8 @@
 PKGNAME=rocketchat
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Rocket.Chat Linux Desktop Client from the official site'
+#DESCRIPTION='Rocket.Chat Linux Desktop Client from the official site'
+DESCRIPTION="Rocket.Chat - это открытая платформа для обмена сообщениями и совместной работы, предоставляющая возможности чатов, видеоконференций и интеграции с другими сервисами"
 URL="https://github.com/RocketChat/Rocket.Chat.Electron"
 
 . $(dirname $0)/common.sh

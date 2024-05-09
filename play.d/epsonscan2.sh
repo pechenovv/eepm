@@ -3,7 +3,8 @@
 PKGNAME=epsonscan2
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Epson Scan 2 - Linux Scanner Driver from the official site"
+#DESCRIPTION="Epson Scan 2 - Linux Scanner Driver from the official site"
+DESCRIPTION="Epson Scan - Программное обеспечение для сканирования от компании Epson"
 URL="https://support.epson.net/linux/en/epsonscan2.php"
 
 . $(dirname $0)/common.sh

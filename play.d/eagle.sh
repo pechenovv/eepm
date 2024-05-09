@@ -3,7 +3,8 @@
 PKGNAME=Autodesk_EAGLE
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="EAGLE (EDA software) from the official site"
+#DESCRIPTION="EAGLE (EDA software) from the official site"
+DESCRIPTION="EAGLE - Программа для проектирования электронных схем и печатных плат"
 
 . $(dirname $0)/common.sh
 

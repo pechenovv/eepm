@@ -3,7 +3,8 @@
 PKGNAME=rstudio
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='RStudio from the official site'
+#DESCRIPTION='RStudio from the official site'
+DESCRIPTION="RStudio - среда разработки для языка R, предоставляющая инструменты для написания, отладки и выполнения кода, анализа данных и визуализации результатов"
 URL="https://posit.co/"
 
 . $(dirname $0)/common.sh

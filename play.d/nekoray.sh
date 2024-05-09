@@ -3,7 +3,8 @@
 PKGNAME=nekoray
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Qt based cross-platform GUI proxy configuration manager (backend: Xray / sing-box)"
+#DESCRIPTION="Qt based cross-platform GUI proxy configuration manager (backend: Xray / sing-box)"
+DESCRIPTION="Nekoray - Основанный на библиотеке Qt кросс-платформенный GUI менеджер для конфигурации прокси (на базе ядер: v2ray / sing-box)"
 URL="https://github.com/MatsuriDayo/nekoray"
 . $(dirname $0)/common.sh
 

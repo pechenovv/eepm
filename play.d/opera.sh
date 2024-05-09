@@ -4,7 +4,8 @@ BASEPKGNAME=opera
 SUPPORTEDARCHES="x86_64"
 PRODUCTALT="stable beta developer"
 VERSION="$2"
-DESCRIPTION="Opera browser from the official site"
+#DESCRIPTION="Opera browser from the official site"
+DESCRIPTION="Opera - быстрый и многофункциональный веб-браузер с встроенными инструментами для блокировки рекламы, защиты конфиденциальности и удобного доступа к расширениям"
 URL="https://opera.com"
 
 . $(dirname $0)/common.sh

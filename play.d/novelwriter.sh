@@ -3,7 +3,8 @@
 PKGNAME=novelwriter
 SUPPORTEDARCHES=""
 VERSION="$2"
-DESCRIPTION="novelWriter - a markdown-like editor for novels"
+#DESCRIPTION="novelWriter - a markdown-like editor for novels"
+DESCRIPTION="NovelWriter - специализированное программное обеспечение для написания романов и книг"
 URL="https://github.com/vkbo/novelWriter"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=portproton
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='PortProton (from the repository if the package is there, or from the official site)'
+#DESCRIPTION='PortProton (from the repository if the package is there, or from the official site)'
+DESCRIPTION="Проект, который призван упростить запуск Windows-игр в Linux, как для начинающих пользователей, так и для опытных(при наличии скачивается из репозитория, либо с официального сайта)"
 
 . $(dirname $0)/common.sh
 

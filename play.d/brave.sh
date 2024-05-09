@@ -4,7 +4,8 @@ BASEPKGNAME=brave-browser
 SUPPORTEDARCHES="x86_64 aarch64"
 PRODUCTALT="'' beta nightly"
 VERSION="$2"
-DESCRIPTION="Brave browser from the official site"
+#DESCRIPTION="Brave browser from the official site"
+DESCRIPTION="Brave - Быстрый и безопасный браузер на базе Chromium"
 
 . $(dirname $0)/common.sh
 

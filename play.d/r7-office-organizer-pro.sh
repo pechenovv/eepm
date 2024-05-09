@@ -3,7 +3,8 @@
 PKGNAME=r7-organizer_pro
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="R7 Office Organizer Pro for Linux from the official site"
+#DESCRIPTION="R7 Office Organizer Pro for Linux from the official site"
+DESCRIPTION="Р7-Органайзер - программа для управления контактами и задачами"
 URL="https://r7-office.ru/downloadorganizer"
 
 # fixme: global epm is used

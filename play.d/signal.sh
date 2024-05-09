@@ -3,7 +3,8 @@
 PKGNAME=signal-desktop
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Signal private messenger from the official site'
+#DESCRIPTION='Signal private messenger from the official site'
+DESCRIPTION="Signal Desktop - это приложение для переписки и звонков, позволяющее обмениваться зашифрованными сообщениями, а также совершать голосовые и видеозвонки"
 DOWNURL="https://updates.signal.org/desktop/apt/pool/main/s/signal-desktop"
 
 . $(dirname $0)/common.sh

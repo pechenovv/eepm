@@ -3,7 +3,8 @@
 PKGNAME=cursor
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="The AI-first Code Editor"
+#DESCRIPTION="The AI-first Code Editor"
+DESCRIPTION="Cursor - Редактор кода с поддержкой нейросетей"
 URL="https://cursor.sh/"
 
 . $(dirname $0)/common.sh

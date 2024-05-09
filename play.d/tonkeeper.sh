@@ -3,7 +3,8 @@
 PKGNAME=Tonkeeper
 SUPPORTEDARCHES="x86_64 aarch64"
 VERSION="$2"
-DESCRIPTION="Tonkeeper desktop from the official site"
+#DESCRIPTION="Tonkeeper desktop from the official site"
+DESCRIPTION="Tonkeeper - криптовалютный кошелек в экосистеме блокчейна TON. Он позволяет получать и отправлять Toncoin другим пользователям кошелька"
 URL="https://tonkeeper.com/desktop"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=mts-link-desktop
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Ecosystem of services for business communications and collaboration'
+#DESCRIPTION='Ecosystem of services for business communications and collaboration'
+DESCRIPTION="МТС Линк - Экосистема сервисов для бизнес‑коммуникаций и совместной работы"
 URL="https://mts-link.ru/"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=minecraft-launcher
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Minecraft launcher from the official site"
+#DESCRIPTION="Minecraft launcher from the official site"
+DESCRIPTION="Официальный лаунчер для игры Minecraft"
 URL="https://www.minecraft.net/en-us/download"
 
 . $(dirname $0)/common.sh

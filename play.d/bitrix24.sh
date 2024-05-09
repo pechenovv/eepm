@@ -3,7 +3,8 @@
 PKGNAME=bitrix24
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Bitrix24 desktop client from the official site"
+#DESCRIPTION="Bitrix24 desktop client from the official site"
+DESCRIPTION="Bitrix24 - Набор инструментов для работы компании и управления бизнесом"
 URL="https://www.bitrix24.ru/features/desktop.php"
 
 . $(dirname $0)/common.sh

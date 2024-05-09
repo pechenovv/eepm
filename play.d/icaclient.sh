@@ -3,7 +3,7 @@
 PKGNAME=ICAClient
 SUPPORTEDARCHES="x86_64"
 #DESCRIPTION="Citrix Workspace app from the official site"
-DESCRIPTION=''
+DESCRIPTION="ICAClient - это клиентское приложение, используемое для доступа к виртуальным рабочим столам и приложениям, предоставляемым через Citrix XenApp и XenDesktop"
 URL="https://www.citrix.com/downloads/workspace-app/linux/workspace-app-for-linux-latest.html"
 
 . $(dirname $0)/common.sh

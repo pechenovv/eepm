@@ -3,7 +3,8 @@
 PKGNAME=skypeforlinux
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Skype for Linux - Stable/Release Version from the official site"
+#DESCRIPTION="Skype for Linux - Stable/Release Version from the official site"
+DESCRIPTION="Skype for Linux - популярное приложение для обмена сообщениями, голосовых и видеозвонков через интернет"
 URL="https://skype.com"
 
 . $(dirname $0)/common.sh

@@ -2,7 +2,8 @@
 
 PKGNAME=mssql-tools
 SUPPORTEDARCHES="x86_64"
-DESCRIPTION="MS SQL Server sqlcmd and bcp from the official site"
+#DESCRIPTION="MS SQL Server sqlcmd and bcp from the official site"
+DESCRIPTION="MS SQL Tools - утилиты sqlcmd и bcp предоставляемые Microsoft для работы с SQL Server"
 
 if [ "$1" = "--remove" ] ; then
     epm remove $PKGNAME msodbcsql17

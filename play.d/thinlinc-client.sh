@@ -3,7 +3,8 @@
 PKGNAME=thinlinc-client
 SUPPORTEDARCHES="x86_64 x86 armhf"
 VERSION="$2"
-DESCRIPTION="ThinLinc Client from the official site"
+#DESCRIPTION="ThinLinc Client from the official site"
+DESCRIPTION="ThinLinc Client - это клиентское приложение для удаленного доступа к рабочему столу и приложениям, работающим на сервере ThinLinc"
 URL="https://www.cendio.com/thinlinc"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=lycheeslicer
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Lychee Slicer - A powerful and versatile Slicer for Resin and Filament 3D Printers from the official site"
+#DESCRIPTION="Lychee Slicer - A powerful and versatile Slicer for Resin and Filament 3D Printers from the official site"
+DESCRIPTION="Lychee Slicer - это программа для подготовки моделей к печати на 3D-принтерах"
 URL="https://mango3d.io/downloads/"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=rudesktop
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="RuDesktop for Linux from the official site"
+#DESCRIPTION="RuDesktop for Linux from the official site"
+DESCRIPTION="RuDesktop - Инструмент для удалённого подключения к компьютеру"
 URL="https://rudesktop.ru/"
 
 pkgname="$PKGNAME"

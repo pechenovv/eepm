@@ -3,7 +3,8 @@
 PKGNAME=alivecolors
 SKIPREPACK=1
 SUPPORTEDARCHES="x86_64"
-DESCRIPTION="AliveColors from the official site"
+#DESCRIPTION="AliveColors from the official site"
+DESCRIPTION="AliveColors - Многофункциональный графический редактор российской разработки"
 
 case "$1" in
     "--remove")

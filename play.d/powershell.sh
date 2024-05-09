@@ -3,7 +3,8 @@
 PKGNAME=powershell
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Microsoft PowerShell from the official site"
+#DESCRIPTION="Microsoft PowerShell from the official site"
+DESCRIPTION="PowerShell - интерактивная оболочка командной строки и среда сценариев от Microsoft"
 URL="https://github.com/PowerShell/PowerShell"
 
 . $(dirname $0)/common.sh

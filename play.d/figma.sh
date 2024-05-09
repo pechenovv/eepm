@@ -3,7 +3,8 @@
 PKGNAME=figma-linux
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Figma-linux - an unofficial Electron-based Figma desktop app for Linux"
+#DESCRIPTION="Figma-linux - an unofficial Electron-based Figma desktop app for Linux"
+DESCRIPTION="Неофициальный клиент Figma для Linux на базе Electron"
 URL="https://github.com/Figma-Linux/figma-linux"
 
 . $(dirname $0)/common.sh

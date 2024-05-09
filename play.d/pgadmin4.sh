@@ -3,7 +3,8 @@
 PKGNAME=pgadmin4-desktop
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION=''
+#DESCRIPTION=''
+DESCRIPTION="pgAdmin 4 - это графический клиент для управления базами данных PostgreSQL"
 
 if [ "$1" = "--remove" ] ; then
     epm remove pgadmin4-server pgadmin4-desktop

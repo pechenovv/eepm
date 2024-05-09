@@ -3,7 +3,8 @@
 PKGNAME=radicle
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Radicle is a sovereign code forge built on Git.'
+#DESCRIPTION='Radicle is a sovereign code forge built on Git.'
+DESCRIPTION="Radicle - это открытая платформа для совместной разработки кода, построенная на базе Git и работающая по принципу пиринговой сети"
 URL="https://radicle.xyz/"
 
 . $(dirname $0)/common.sh

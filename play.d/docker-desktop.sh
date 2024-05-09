@@ -3,7 +3,8 @@
 PKGNAME=docker-desktop
 SUPPORTEDARCHES="x86_64 aarch64"
 VERSION="$2"
-DESCRIPTION="Docker Desktop from the official site"
+#DESCRIPTION="Docker Desktop from the official site"
+DESCRIPTION="Docker Desktop - Простое приложение для создания, развертывания и управления контейнерами Docker"
 URL="https://docs.docker.com/desktop/install/ubuntu/"
 
 . $(dirname $0)/common.sh

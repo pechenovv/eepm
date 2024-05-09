@@ -3,7 +3,8 @@
 PKGNAME=bitwarden
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Bitwarden desktop from the official site"
+#DESCRIPTION="Bitwarden desktop from the official site"
+DESCRIPTION="Bitwarden - Облачное решение для управления паролями и хранения конфиденциальных данных"
 
 . $(dirname $0)/common.sh
 

@@ -3,7 +3,8 @@
 PKGNAME=ridoclnx
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="RiDocLNX - scanner software for Linux"
+#DESCRIPTION="RiDocLNX - scanner software for Linux"
+DESCRIPTION="RiDocLNX - программа для сканирования документов в PDF и другие форматы, создания многостраничных документов, просмотра PDF/TIFF файлов и добавления водяных знаков"
 URL="https://ridoclnx.com/"
 
 . $(dirname $0)/common.sh

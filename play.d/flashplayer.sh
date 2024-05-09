@@ -3,7 +3,8 @@
 PKGNAME=flashplayer
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Adobe Flash Player from the official site"
+#DESCRIPTION="Adobe Flash Player from the official site"
+DESCRIPTION="Adobe Flash Player - Устаревший плагин для воспроизведения мультимедийного контента"
 URL="https://www.adobe.com/support/flashplayer/downloads.html"
 
 . $(dirname $0)/common.sh

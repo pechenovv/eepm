@@ -5,8 +5,8 @@ PKGNAME=chromium-gost-stable
 REPOPKGNAME=chromium-gost
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Chromium with GOST support from the official site"
-
+#DESCRIPTION="Chromium with GOST support from the official site"
+DESCRIPTION="Браузер Chromium с поддержкой ГОСТ"
 . $(dirname $0)/common.sh
 
 #arch=$(epm print info --distro-arch)

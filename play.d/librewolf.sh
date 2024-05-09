@@ -3,7 +3,8 @@
 PKGNAME=librewolf
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="LibreWolf - a custom version of Firefox, focused on privacy, security and freedom"
+#DESCRIPTION="LibreWolf - a custom version of Firefox, focused on privacy, security and freedom"
+DESCRIPTION="LibreWolf - Браузер на базе Firefox с фокусом на приватность и свободу"
 URL="https://librewolf.net/"
 
 . $(dirname $0)/common.sh

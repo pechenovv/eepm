@@ -3,7 +3,8 @@
 PKGNAME=cnrdrvcups-ufr2-uk
 SUPPORTEDARCHES="x86_64 aarch64"
 VERSION="$2"
-DESCRIPTION="Canon UFR II Printer Driver for Linux from the official site"
+#DESCRIPTION="Canon UFR II Printer Driver for Linux from the official site"
+DESCRIPTION="Набор URF II драйверов для принтеров Canon"
 URL="https://www.canon.ru/support/business-product-support/office_driver_guide/"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=r7-office
 SKIPREPACK=1
 SUPPORTEDARCHES="x86_64"
-DESCRIPTION="R7 Office for Linux from the official site"
+#DESCRIPTION="R7 Office for Linux from the official site"
+DESCRIPTION="Инструмент для работы с текстами, таблицами и презентациями"
 URL="https://r7-office.ru/"
 
 . $(dirname $0)/common.sh

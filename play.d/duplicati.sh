@@ -3,7 +3,8 @@
 PKGNAME=duplicati
 # noarch
 VERSION="$2"
-DESCRIPTION="Duplicati from the official site"
+#DESCRIPTION="Duplicati from the official site"
+DESCRIPTION="Duplicati - Программное обеспечение для резервного копирования данных с поддержкой шифрования, планирования задач и интеграции с различными облачными хранилищами"
 URL="https://www.duplicati.com/"
 
 . $(dirname $0)/common.sh

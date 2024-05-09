@@ -3,7 +3,8 @@
 PKGNAME=OrcaSlicer
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Orca Slicer is an open source slicer for FDM printers'
+#DESCRIPTION='Orca Slicer is an open source slicer for FDM printers'
+DESCRIPTION="Orcaslicer - это программное обеспечение для подготовки моделей 3D к печати"
 URL="https://github.com/SoftFever/OrcaSlicer"
 
 . $(dirname $0)/common.sh

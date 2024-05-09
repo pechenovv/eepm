@@ -2,7 +2,8 @@
 
 PKGNAME=mssql-server
 SUPPORTEDARCHES="x86_64"
-DESCRIPTION="MS SQL Server 2019 from the official site"
+#DESCRIPTION="MS SQL Server 2019 from the official site"
+DESCRIPTION="MS SQL Server 2019 - это реляционная система управления базами данных (СУБД) от Microsoft"
 
 DEBREPO="deb http://ftp.ru.debian.org/debian/ stretch main"
 

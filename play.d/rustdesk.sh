@@ -3,7 +3,8 @@
 PKGNAME=rustdesk
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="RustDesk — Display and control your PC and Android devices"
+#DESCRIPTION="RustDesk — Display and control your PC and Android devices"
+DESCRIPTION="RustDesk - программное обеспечение для удаленного доступа и поддержки"
 URL="https://github.com/rustdesk/rustdesk/"
 
 . $(dirname $0)/common.sh

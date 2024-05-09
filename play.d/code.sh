@@ -3,7 +3,8 @@
 PKGNAME=code
 SUPPORTEDARCHES="x86_64 armhf aarch64"
 VERSION="$2"
-DESCRIPTION="Visual Studio Code from the official site"
+#DESCRIPTION="Visual Studio Code from the official site"
+DESCRIPTION="Visual Studio Code - Среда разработки для различных языков программирования"
 TIPS="Run epm play code=<version> to install specific version."
 
 . $(dirname $0)/common.sh

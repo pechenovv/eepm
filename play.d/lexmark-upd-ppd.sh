@@ -3,7 +3,8 @@
 PKGNAME=lexmark-upd-ppd
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Linux Universal Print Driver with 64-bit packaging for Lexmark Printers"
+#DESCRIPTION="Linux Universal Print Driver with 64-bit packaging for Lexmark Printers"
+DESCRIPTION="Программа для обеспечения совместимости и поддержки различных моделей принтеров Lexmark"
 URL="https://support.lexmark.com/content/support/en_xm/support/download.DRI1000577.html"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=slack
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Slack from the official site'
+#DESCRIPTION='Slack from the official site'
+DESCRIPTION="Slack - это платформа для коммуникации и совместной работы в команде, предоставляющая чаты, каналы, обмен файлами, а также интеграции с другими сервисами"
 URL="https://slack.com"
 
 . $(dirname $0)/common.sh

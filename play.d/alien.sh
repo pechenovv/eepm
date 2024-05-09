@@ -5,7 +5,7 @@ SUPPORTEDARCHES=""
 VERSION="$2"
 DESCRIPTION="Alien converting tool (use it if your repo has no alien)"
 # disabled: useless
-DESCRIPTION=''
+#DESCRIPTION=''
 
 . $(dirname $0)/common.sh
 

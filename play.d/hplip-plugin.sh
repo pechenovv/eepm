@@ -3,7 +3,8 @@
 PKGNAME=hplip-plugin
 SUPPORTEDARCHES="x86_64 x86 armhf aarch64"
 VERSION="$2"
-DESCRIPTION='Binary plugin for HPs hplip printer driver library'
+#DESCRIPTION='Binary plugin for HPs hplip printer driver library'
+DESCRIPTION="Дополнительный плагин для пакета hplip который предоставляет поддержку для некоторых моделей принтеров и МФУ HP"
 URL="https://developers.hp.com/hp-linux-imaging-and-printing/binary_plugin.html"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=chat-gpt
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Unofficial ChatGPT Desktop Application from the official site'
+#DESCRIPTION='Unofficial ChatGPT Desktop Application from the official site'
+DESCRIPTION="Неофициальное приложение ChatGPT"
 URL="https://github.com/lencx/ChatGPT"
 
 . $(dirname $0)/common.sh

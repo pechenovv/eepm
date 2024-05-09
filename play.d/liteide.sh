@@ -3,7 +3,8 @@
 PKGNAME=liteide
 SUPPORTEDARCHES="x86_64 x86"
 VERSION="$2"
-DESCRIPTION="LiteIDE is a simple, open source, cross-platform Go IDE. From the official site"
+#DESCRIPTION="LiteIDE is a simple, open source, cross-platform Go IDE. From the official site"
+DESCRIPTION="LiteIDE - Среда разработки для программирования на языке Go"
 URL="https://github.com/visualfc/liteide"
 
 . $(dirname $0)/common.sh

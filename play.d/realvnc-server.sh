@@ -3,7 +3,8 @@
 PKGNAME=realvnc-vnc-server
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Real VNC Server from the official site"
+#DESCRIPTION="Real VNC Server from the official site"
+DESCRIPTION="RealVNC Server - это программное обеспечение для удаленного доступа и управления компьютером через интернет или в локальной сети"
 URL="https://www.realvnc.com/en/connect/download/vnc/"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=reaper
 SUPPORTEDARCHES="x86_64 x86 armhf aarch64"
 VERSION="$2"
-DESCRIPTION='REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.'
+#DESCRIPTION='REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.'
+DESCRIPTION="Reaper - это профессиональное программное обеспечение для аудиообработки и музыкального производства, предоставляющее широкие возможности записи, редактирования, сведения и создания музыки"
 URL="https://www.reaper.fm/index.php"
 
 . $(dirname $0)/common.sh

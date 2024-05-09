@@ -3,7 +3,8 @@
 PKGNAME=dbeaver-ce
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="DBeaver Community from the official site"
+#DESCRIPTION="DBeaver Community from the official site"
+DESCRIPTION="DBeaver Community - Инструмент для работы с базами данных"
 URL="https://dbeaver.io/"
 
 . $(dirname $0)/common.sh

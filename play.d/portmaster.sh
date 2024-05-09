@@ -3,7 +3,8 @@
 PKGNAME=portmaster
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Portmaster from the official site"
+#DESCRIPTION="Portmaster from the official site"
+DESCRIPTION="Portmaster - это программный брандмауэр для управления сетевой активностью компьютера, обеспечивающий приватность и контроль над сетевыми соединениями"
 URL="https://safing.io/"
 
 . $(dirname $0)/common.sh

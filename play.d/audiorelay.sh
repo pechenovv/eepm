@@ -3,7 +3,8 @@
 PKGNAME=audiorelay
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="AudioRelay from the official site"
+#DESCRIPTION="AudioRelay from the official site"
+DESCRIPTION="AudioRelay - Утилита позволяющая передавать звук с вашего компьютера на мобильное устройство и наоборот"
 URL="https://audiorelay.net"
 
 . $(dirname $0)/common.sh

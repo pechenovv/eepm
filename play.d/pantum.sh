@@ -3,7 +3,8 @@
 PKGNAME=pantum
 SUPPORTEDARCHES="x86_64 x86"
 VERSION="$2"
-DESCRIPTION="CUPS and SANE drivers for Pantum series printer and scanner"
+#DESCRIPTION="CUPS and SANE drivers for Pantum series printer and scanner"
+DESCRIPTION="CUPS и SANE драйвера для принтеров и сканеров компании Pantum"
 URL="https://www.pantum.ru/support/download/driver/"
 
 . $(dirname $0)/common.sh

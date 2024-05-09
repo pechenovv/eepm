@@ -3,7 +3,8 @@
 PKGNAME="teamviewer"
 SUPPORTEDARCHES="x86_64 aarch64"
 VERSION="$2"
-DESCRIPTION="Teamviewer from the official site"
+#DESCRIPTION="Teamviewer from the official site"
+DESCRIPTION="TeamViewer - программное обеспечение для удаленного доступа и управления компьютерами, позволяющее обмениваться файлами, проводить видеозвонки и оказывать поддержку на расстоянии"
 URL="https://www.teamviewer.com/ru-cis/download/linux"
 
 . $(dirname $0)/common.sh

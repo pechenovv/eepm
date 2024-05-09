@@ -3,7 +3,8 @@
 PKGNAME=sane-panakvs
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Panasonic Scanner Driver for Linux from the official site"
+#DESCRIPTION="Panasonic Scanner Driver for Linux from the official site"
+DESCRIPTION="Драйвера для сканеров компании Panasonic"
 URL="https://panasonic.net/cns/pcc/support/scanner/linuxspanakvs.html"
 
 . $(dirname $0)/common.sh

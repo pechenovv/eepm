@@ -3,7 +3,8 @@
 PKGNAME=kyocera-sane
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Kyocera sane scanner support package"
+#DESCRIPTION="Kyocera sane scanner support package"
+DESCRIPTION="Драйвер сканера для устройств Kyocera"
 URL="https://www.kyoceradocumentsolutions.eu/en/support/downloads.name-L2V1L2VuL21mcC9FQ09TWVNNNjIzMENJRE4=.html"
 
 . $(dirname $0)/common.sh

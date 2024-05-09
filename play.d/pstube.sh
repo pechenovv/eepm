@@ -3,7 +3,8 @@
 PKGNAME=pstube
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="PsTube (formerly FluTube) - Watch and download videos without ads. From the official site"
+#DESCRIPTION="PsTube (formerly FluTube) - Watch and download videos without ads. From the official site"
+DESCRIPTION="PsTube - программа для просмотра и загрузки видео без рекламы"
 URL="https://github.com/prateekmedia/pstube"
 
 . $(dirname $0)/common.sh

@@ -3,7 +3,8 @@
 PKGNAME=teamspeak3
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="TeamSpeak3 Client for Linux from the official site"
+#DESCRIPTION="TeamSpeak3 Client for Linux from the official site"
+DESCRIPTION="TeamSpeak 3 - это программное обеспечение для голосового общения в режиме реального времени через Интернет"
 URL="https://www.teamspeak.com/"
 
 . $(dirname $0)/common.sh

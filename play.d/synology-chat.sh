@@ -3,7 +3,8 @@
 PKGNAME=synology-chat
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Synology Chat Client from the official site'
+#DESCRIPTION='Synology Chat Client from the official site'
+DESCRIPTION="Synology Chat - это приложение для обмена сообщениями и совместной работы, разработанное для использования с устройствами хранения данных Synology NAS"
 URL="https://synology.com"
 
 . $(dirname $0)/common.sh

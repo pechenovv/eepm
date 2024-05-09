@@ -4,7 +4,8 @@ BASEPKGNAME=Telegram
 PRODUCTALT="'' beta"
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Telegram client from the official site"
+#DESCRIPTION="Telegram client from the official site"
+DESCRIPTION="Telegram - это мессенджер с шифрованием, обеспечивающий быструю и безопасную передачу сообщений, файлов, изображений и видео, а также поддерживающий групповые чаты, каналы и ботов"
 URL="https://github.com/telegramdesktop/tdesktop"
 TIPS="Run 'epm play telegram=beta' to install beta version of the Telegram client. Run 'epm play telegram version' to install the version of the Telegram client."
 

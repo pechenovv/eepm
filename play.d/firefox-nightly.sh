@@ -3,7 +3,8 @@
 PKGNAME=firefox-nightly
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Firefox nightly from the official site"
+#DESCRIPTION="Firefox nightly from the official site"
+DESCRIPTION="Экспериментальная версия браузера Firefox"
 
 . $(dirname $0)/common.sh
 

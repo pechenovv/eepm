@@ -3,7 +3,8 @@
 PKGNAME=t1client-standalone
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="DSSL Trassir Client"
+#DESCRIPTION="DSSL Trassir Client"
+DESCRIPTION="DSSL Trassir Client - клиент для системы видеонаблюдения Trassir, позволяющий просматривать видео с камер, управлять настройками и архивом"
 URL="https://confluence.trassir.com/pages/viewpage.action?pageId=36865118"
 
 . $(dirname $0)/common.sh

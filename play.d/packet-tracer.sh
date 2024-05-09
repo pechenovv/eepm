@@ -3,7 +3,8 @@
 PKGNAME=PacketTracer
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Cisco PacketTracer"
+#DESCRIPTION="Cisco PacketTracer"
+DESCRIPTION="Cisco Packet Tracer - это симулятор сетевых устройств, который позволяет моделировать и тестировать сетевые конфигурации и взаимодействия устройств Cisco"
 URL="https://www.sysnettechsolutions.com/en/download-cisco-packet-tracer/"
 
 . $(dirname $0)/common.sh

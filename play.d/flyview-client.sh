@@ -3,7 +3,8 @@
 PKGNAME=ipera-client
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="FlyView Client from the official site"
+#DESCRIPTION="FlyView Client from the official site"
+DESCRIPTION="FlyView Client - приложение для просмотра трехмерных моделей и облаков точек в формате 3D"
 
 . $(dirname $0)/common.sh
 

@@ -3,7 +3,8 @@
 PKGNAME=element-desktop
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="A feature-rich client for Matrix.org"
+#DESCRIPTION="A feature-rich client for Matrix.org"
+DESCRIPTION="Element - Многофункциональный клиент для общения по протоколу Matrix"
 URL="https://element.io/"
 
 . $(dirname $0)/common.sh

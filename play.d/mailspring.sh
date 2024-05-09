@@ -3,7 +3,8 @@
 PKGNAME=mailspring
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Mailspring - a beautiful, fast and fully open source mail client"
+#DESCRIPTION="Mailspring - a beautiful, fast and fully open source mail client"
+DESCRIPTION="Mailspring - Красивый почтовый клиент с расширенными функциями для управления электронной почтой"
 URL="https://www.getmailspring.com/"
 
 . $(dirname $0)/common.sh

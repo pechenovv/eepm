@@ -3,7 +3,8 @@
 PKGNAME=epson-printer-utility
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Epson Printer Utility - Linux Epson Printer Utility from the official site"
+#DESCRIPTION="Epson Printer Utility - Linux Epson Printer Utility from the official site"
+DESCRIPTION="Epson Printer Utility - Программа для управления принтерами Epson, предоставляющая инструменты настройки, обслуживания и диагностики"
 URL="http://support.epson.net/linux/Printer/LSB_distribution_pages/en/utility.php"
 
 . $(dirname $0)/common.sh

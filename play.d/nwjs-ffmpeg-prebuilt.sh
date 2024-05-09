@@ -3,7 +3,8 @@
 PKGNAME='nwjs-ffmpeg-prebuilt'
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='FFmpeg prebuilt binaries for NW.js / Chromium from the official project site'
+#DESCRIPTION='FFmpeg prebuilt binaries for NW.js / Chromium from the official project site'
+DESCRIPTION="FFmpeg с проприетарными кодеками для NW.js / Chromium"
 URL="https://github.com/nwjs-ffmpeg-prebuilt/nwjs-ffmpeg-prebuilt/"
 
 . $(dirname $0)/common.sh

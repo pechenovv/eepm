@@ -4,7 +4,8 @@ PKGNAME=assistant
 SKIPREPACK=1
 SUPPORTEDARCHES="x86_64 aarch64"
 VERSION="$2"
-DESCRIPTION="Assistant (Ассистент) from the official site"
+#DESCRIPTION="Assistant (Ассистент) from the official site"
+DESCRIPTION="Ассистент - Программа для предоставления удалённого доступа по локальной сети или через интернет российской разработки"
 
 . $(dirname $0)/common.sh
 

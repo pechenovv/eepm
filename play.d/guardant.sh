@@ -3,7 +3,8 @@
 PKGNAME=glds
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Guardant License Server from the official site"
+#DESCRIPTION="Guardant License Server from the official site"
+DESCRIPTION="Guardant License Server - это программное обеспечение, которое использует аппаратные ключи Guardant для обеспечения безопасности и контроля доступа к приложениям"
 URL="https://www.guardant.ru/support/users/download/1223/"
 
 . $(dirname $0)/common.sh

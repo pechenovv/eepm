@@ -3,7 +3,8 @@
 PKGNAME=Todoist-linux
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='Todoist client application from the official site'
+#DESCRIPTION='Todoist client application from the official site'
+DESCRIPTION="Todoist - приложение для управления задачами и списками дел"
 URL="https://todoist.com/"
 
 . $(dirname $0)/common.sh

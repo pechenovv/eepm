@@ -3,7 +3,8 @@
 PKGNAME=everdo
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="A productivity app for GTD (Getting Things Done) from the official site"
+#DESCRIPTION="A productivity app for GTD (Getting Things Done) from the official site"
+DESCRIPTION="Everdo - Приложение для управления задачами и организации рабочего процесса, обеспечивающее эффективное планирование"
 URL="https://everdo.net/"
 
 . $(dirname $0)/common.sh

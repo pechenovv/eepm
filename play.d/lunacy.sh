@@ -3,7 +3,8 @@
 PKGNAME=lunacy
 SUPPORTEDARCHES="x86_64 aarch64"
 VERSION="$2"
-DESCRIPTION="Lunacy - Graphic Design Editor"
+#DESCRIPTION="Lunacy - Graphic Design Editor"
+DESCRIPTION="Lunacy - Приложение для просмотра и редактирования файлов Sketch (формат .sketch), используемых для дизайна интерфейсов"
 URL="https://icons8.ru/lunacy"
 
 . $(dirname $0)/common.sh

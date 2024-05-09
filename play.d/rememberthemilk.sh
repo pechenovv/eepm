@@ -3,7 +3,8 @@
 PKGNAME=rememberthemilk
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION='' # 'Remember the milk from the official site'
+#DESCRIPTION='' # 'Remember the milk from the official site'
+DESCRIPTION="Remember The Milk - приложение для управления задачами и организации рабочего времени с поддержкой синхронизации между устройствами"
 URL="https://www.rememberthemilk.com/"
 
 . $(dirname $0)/common.sh

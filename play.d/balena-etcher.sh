@@ -3,7 +3,8 @@
 PKGNAME=balena-etcher
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Flash OS images to SD cards & USB drives, safely and easily"
+#DESCRIPTION="Flash OS images to SD cards & USB drives, safely and easily"
+DESCRIPTION="BalenaEtcher - Программа для создания загрузочных flash накопителей"
 URL="https://etcher.io/"
 
 . $(dirname $0)/common.sh

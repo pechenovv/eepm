@@ -3,7 +3,8 @@
 PKGNAME=mailruagent
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
-DESCRIPTION="Mail.ru Agent for Linux from the official site"
+#DESCRIPTION="Mail.ru Agent for Linux from the official site"
+DESCRIPTION="Мессенджер и голосовой сервис от компании VK (ранее mail.ru)"
 URL="https://agent.mail.ru/linux"
 
 . $(dirname $0)/common.sh

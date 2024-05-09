@@ -3,7 +3,8 @@
 PKGNAME=snap4arduino
 SUPPORTEDARCHES="x86_64 x86"
 VERSION="$2"
-DESCRIPTION="Snap4Arduino binds Snap! and Arduino together"
+#DESCRIPTION="Snap4Arduino binds Snap! and Arduino together"
+DESCRIPTION="Snap4Arduino - Snap4Arduino - среда разработки, позволяющая создавать программы и контролировать устройства Arduino с использованием графического языка программирования Snap"
 URL="https://github.com/bromagosa/Snap4Arduino"
 
 . $(dirname $0)/common.sh
