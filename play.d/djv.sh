@@ -4,7 +4,7 @@ PKGNAME=DJV2
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
 #DESCRIPTION="DJV2 - Professional media review software for VFX, animation, and film production"
-DESCRIPTION="DJV2 - Профессиональное программное обеспечение для просмотра медиа-контента в области визуальных эффектов (VFX), анимации и кинопроизводства"
+DESCRIPTION="DJV2 - Профессиональное программное обеспечение для просмотра медиа-контента и кинопроизводства"
 
 . $(dirname $0)/common.sh
 

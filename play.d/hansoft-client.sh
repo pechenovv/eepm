@@ -4,7 +4,7 @@ PKGNAME=hansoft
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
 #DESCRIPTION="Hansoft client from the official site"
-DESCRIPTION="Hansoft client - Программное обеспечение для управления проектами и планирования задач, предназначенное для организации работы команд"
+DESCRIPTION="Hansoft client - Программное обеспечение для управления проектами и планирования задач для организации работы команд"
 URL="https://www.perforce.com/products/hansoft"
 
 . $(dirname $0)/common.sh

@@ -4,7 +4,7 @@ PKGNAME=onlyoffice-desktopeditors
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
 #DESCRIPTION="ONLYOFFICE for Linux from the official site"
-DESCRIPTION="ONLYOFFICE - платформа для создания и редактирования документов, электронных таблиц и презентаций, а также для совместной работы и управления проектами"
+DESCRIPTION="ONLYOFFICE - платформа для создания и редактирования документов, электронных таблиц и презентаций"
 URL="www.onlyoffice.com"
 
 . $(dirname $0)/common.sh

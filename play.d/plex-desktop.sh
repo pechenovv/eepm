@@ -4,7 +4,7 @@ PKGNAME=plex-desktop
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
 #DESCRIPTION="Plex Desktop from the official site"
-DESCRIPTION="Plex Desktop - приложение для просмотра и организации медиа-контента, позволяющее стримить фильмы, сериалы, музыку и фотографии на компьютере с сервера Plex"
+DESCRIPTION="Plex Desktop - приложение для просмотра и организации медиа-контента на компьютере с сервера Plex"
 URL="https://www.plex.tv/"
 
 . $(dirname $0)/common.sh

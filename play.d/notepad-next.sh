@@ -4,7 +4,7 @@ PKGNAME=NotepadNext
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
 #DESCRIPTION="A cross-platform, reimplementation of Notepad++"
-DESCRIPTION="Notepadnext - это текстовый редактор с открытым исходным кодом, вдохновленный функциональностью и интерфейсом популярного редактора Notepad++"
+DESCRIPTION="Notepadnext - текстовый редактор с открытым исходным кодом, вдохновленный функциональностью и интерфейсом популярного редактора Notepad++"
 URL="https://github.com/dail8859/NotepadNext"
 
 . $(dirname $0)/common.sh

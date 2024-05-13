@@ -4,7 +4,7 @@ PKGNAME=jetbrains-toolbox
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
 #DESCRIPTION="JetBrains Toolbox App from the official site"
-DESCRIPTION="JetBrains Toolbox - Приложение, которое позволяет управлять установкой, обновлением и использованием инструментов разработки от JetBrains, таких как IntelliJ IDEA, PyCharm, WebStorm и других"
+DESCRIPTION="JetBrains Toolbox - Приложение, которое позволяет управлять установкой инструментов разработки от JetBrains"
 URL="https://www.jetbrains.com/toolbox/"
 
 . $(dirname $0)/common.sh

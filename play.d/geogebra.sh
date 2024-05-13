@@ -4,7 +4,7 @@ PKGNAME=geogebra-classic
 SUPPORTEDARCHES="x86_64 x86"
 VERSION="$2"
 #DESCRIPTION="Geogebra 6 from the official site"
-DESCRIPTION="Geogebra - Программное обеспечение для математического моделирования и обучения, которое объединяет инструменты геометрии, алгебры, таблиц и графиков"
+DESCRIPTION="Geogebra - Программное обеспечение для математического моделирования и обучения"
 URL="https://wiki.geogebra.org/en/Reference:GeoGebra_Installation"
 
 . $(dirname $0)/common.sh

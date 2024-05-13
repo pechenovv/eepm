@@ -4,7 +4,7 @@ PKGNAME=gitlab-runner
 SUPPORTEDARCHES="armhf aarch64 x86 x86_64 ppc64le"
 VERSION="$2"
 #DESCRIPTION='Gitlab runner'
-DESCRIPTION="Gitlab runner - Инструмент командной строки, который используется для выполнения задач CI/CD (непрерывная интеграция/непрерывная доставка) на GitLab"
+DESCRIPTION="Gitlab runner - Инструмент командной строки, который используется для выполнения задач CI/CD на GitLab"
 
 . $(dirname $0)/common.sh
 

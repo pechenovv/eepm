@@ -4,7 +4,7 @@ PKGNAME=ipera-mediaserver
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
 #DESCRIPTION="FlyView (Ipera) Server from the official site"
-DESCRIPTION="Серверная часть FlyView для работы с трехмерными моделями и облаками точек в формате 3D, обеспечивающая удаленный доступ и визуализацию данных для клиентских приложений"
+DESCRIPTION="Серверная часть FlyView для работы с трехмерными моделями и облаками точек в формате 3D"
 
 . $(dirname $0)/common.sh
 

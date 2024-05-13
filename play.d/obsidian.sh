@@ -4,7 +4,7 @@ PKGNAME=obsidian
 SUPPORTEDARCHES="x86_64"
 VERSION="$2"
 #DESCRIPTION='Obsidian from the official site'
-DESCRIPTION="Obsidian - это инструмент для организации знаний и заметок, позволяющий создавать и связывать гиперсвязанные заметки для эффективного управления информацией и идеями"
+DESCRIPTION="Obsidian - инструмент для организации знаний и заметок"
 URL="https://obsidian.md"
 
 . $(dirname $0)/common.sh
