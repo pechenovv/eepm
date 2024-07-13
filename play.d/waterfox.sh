@@ -8,7 +8,7 @@ URL="https://www.waterfox.net/"
 . $(dirname $0)/common.sh
 
 if [ "$VERSION" = "*" ] ; then
-	VERSION="$(curl -s https://api.github.com/repos/BrowserWorks/Waterfox/releases/latest | grep -oP '"tag_name": "\K(.*?)(?=")' | sed 's/G//g')"
+	VERSION="$(eget -O- https://api.github.com/repos/BrowserWorks/Waterfox/releases/latest | grep -oP '"tag_name": "\K(.*?)(?=")' | sed 's/G//g')"
 fi
 
 PKGURL="https://cdn1.waterfox.net/waterfox/releases/G$VERSION/Linux_x86_64/waterfox-G$VERSION.tar.bz2"
